@@ -6,4 +6,4 @@ In a rapidly evolving society, technological advancements are playing a critical
 
 Computer science, computer engineering, and cybersecurity are some of the industries that are undoubtedly going to define the future of humanity, and I want to make it my goal to help that happen.
 
-My school account, which has my college work > github.com/holden-davis-uca
+My school account, which has my college work > [holden-davis-uca](https://github.com/holden-davis-uca)
