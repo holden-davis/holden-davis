@@ -8,4 +8,6 @@ Computer science, computer engineering, and cybersecurity are some of the indust
 
 My school account, which has my college work > [holden-davis-uca](https://github.com/holden-davis-uca)
 
-[![Holden's GitHub stats](https://github-readme-stats.vercel.app/api?username=holden-davis&theme=github_dark)](https://github.com/holden-davis/github-readme-stats)
+[![Holden's GitHub stats](https://github-readme-stats.vercel.app/api?username=holden-davis&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holden-davis&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
